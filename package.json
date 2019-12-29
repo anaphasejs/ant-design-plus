@@ -1,5 +1,5 @@
 {
-  "name": "antd-plus",
+  "name": "@anaphasejs/antd-plus",
   "version": "0.1.0",
   "description": "Ant Design helpers",
   "main": "lib/index.js",

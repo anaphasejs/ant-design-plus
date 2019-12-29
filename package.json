@@ -10,6 +10,9 @@
   "scripts": {
     "build": "rm -fr lib && tsc && babel src --out-dir lib --extensions .ts,.tsx"
   },
+  "files": [
+    "lib/*"
+  ],
   "peerDependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",

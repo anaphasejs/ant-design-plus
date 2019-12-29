@@ -1,6 +1,6 @@
 {
   "name": "@anaphasejs/antd-plus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ant Design helpers",
   "main": "lib/index.js",
   "repository": "git@github.com:anaphasejs/ant-design-plus.git",

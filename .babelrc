@@ -13,14 +13,5 @@
     "@babel/preset-react",
     "@emotion/babel-preset-css-prop"
   ],
-  "plugins": [
-    "@babel/plugin-proposal-optional-chaining",
-    [
-      "import",
-      {
-        "libraryName": "antd",
-        "style": true
-      }
-    ]
-  ]
+  "plugins": ["@babel/plugin-proposal-optional-chaining"]
 }

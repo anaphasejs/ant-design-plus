@@ -1,4 +1,5 @@
 import React from "react";
+import "@emotion/core";
 import styled from "@emotion/styled";
 import { PropsWithChildren } from "react";
 import ErrorBoundary from "./ErrorBoundary";

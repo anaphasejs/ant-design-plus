@@ -1,3 +1,4 @@
+import "@emotion/core";
 import React from "react";
 import { css, Global } from "@emotion/core";
 import styled from "@emotion/styled";

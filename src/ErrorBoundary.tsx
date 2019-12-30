@@ -1,4 +1,5 @@
 import { Button } from "antd";
+import "@emotion/core";
 import React, { Component, ErrorInfo, PropsWithChildren } from "react";
 import CenterLayout from "./CenterLayout";
 import { Module, ModuleInner } from "./Module";
